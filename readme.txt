@@ -29,7 +29,7 @@ Ajax BootModal Login is a WordPress plugin that is powered by bootstrap and ajax
 * Just install the plugin and use `[Alimir_BootModal_Login]` shortcode or drag `Ajax BootModal Login` widget in widget area.
 
 = Translators =
-
+ 
 *   English
 *   Persian
 *   Chinese (Thanks suifengtec)
